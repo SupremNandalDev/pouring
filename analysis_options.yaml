@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: false
+    unnecessary_this: false
+    prefer_const_literals_to_create_immutables: false
+    prefer_final_fields: false
+    curly_braces_in_flow_control_structures: false
+    file_names: false
+    prefer_const_declarations: false
+    prefer_const_constructors: false
